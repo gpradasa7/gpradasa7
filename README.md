@@ -18,11 +18,14 @@ const Conoceme({data}) => {
                [
                   {name: "HTML5",
                   level: "Medium Hihgt Level",
-                  lastUpdate: "permanent!"},{ name: "ReactJS",
+                  lastUpdate: "permanent!"},
+                  { name: "ReactJS",
                   level: "Basic Medium Level",
-                  lastUpdate: "permanent!"},{name: "Redux",
+                  lastUpdate: "permanent!"},
+                  {name: "Redux",
                   level: "Basic Level",
-                  lastUpdate: "permanent!"},{name: "CSS3",
+                  lastUpdate: "permanent!"},
+                  {name: "CSS3",
                   level: "Medium Hihgt Level",
                   lastUpdate: "permanent!"
                   },
